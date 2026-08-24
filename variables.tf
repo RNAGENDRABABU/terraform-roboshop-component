@@ -11,7 +11,7 @@ variable "port_number" {
 }
 
 variable "rule_priority" {
-  type = number
+  default = 10
 }
 
 variable "project" {
