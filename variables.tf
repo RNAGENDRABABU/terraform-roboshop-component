@@ -3,7 +3,7 @@ variable "component" {
 }
 
 variable "rule_priority" {
-  default = 10
+  
 }
 
 variable "project" {
